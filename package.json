@@ -1,5 +1,5 @@
 {
-  "name": "razorpay-checkout-js",
+  "name": "@tiltbike/razorpay-checkout-js",
   "version": "1.0.0",
   "description": "Razorpay checkout.js loading utility",
   "main": "dist/checkout.js",

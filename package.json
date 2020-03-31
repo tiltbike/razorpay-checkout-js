@@ -1,0 +1,26 @@
+{
+  "name": "razorpay-checkout-js",
+  "version": "1.0.0",
+  "description": "Razorpay checkout.js loading utility",
+  "main": "dist/checkout.js",
+  "umd:main": "dist/checkout.umd.js",
+  "module": "dist/checkout.m.js",
+  "source": "src/index.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "keywords": [
+    "Razorpay",
+    "checkout.js"
+  ],
+  "author": "Daksh Shah <daksh@tilt.bike>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiltbike/razorpay-checkout-js.git"
+  },
+  "dependencies": {
+    "microbundle": "^0.11.0"
+  }
+}

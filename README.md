@@ -1,6 +1,6 @@
 # Razorpay checkout.js ES Module
 
-_This is not an official package by Razorpay. It's just a simple wrapper for Razorpay's checkout.js script._
+_This is not an official package by Razorpay. It's just a simple wrapper for Razorpay's checkout.js script inspired from a [similar wrapper by Stripe](https://github.com/stripe/stripe-js)._
 
 Use [Razorpay checkout.js](https://razorpay.com/docs/payment-gateway/web-integration/) as an ES module.
 
@@ -59,3 +59,7 @@ Manually add the checkout.js script tag to the `<head>` of each page on your sit
 
 - [Razorpay Docs](https://razorpay.com/docs)
 - [Razorpay Web Integration Docs](https://razorpay.com/docs/payment-gateway/web/)
+
+## Credits
+
+Most of the code and documentation for this package has been picked up from the [open-source loading wrapper for Stripe.js](https://github.com/stripe/stripe-js). Thanks to the [Stripe](https://github.com/stripe/) team!

@@ -6,7 +6,7 @@ Use [Razorpay checkout.js](https://razorpay.com/docs/payment-gateway/web-integra
 
 **Note**: To be PCI compliant, you must load checkout.js directly from `https://checkout.razorpay.com`. You cannot include it in a bundle or host it yourself. This package wraps the global `Razorpay` function provided by the checkout.js script as an ES module.
 
-[![npm version](https://img.shields.io/npm/v/@tiltbike/razorpay-checkout-js.svg?style=flat-square)](https://www.npmjs.com/package/@tiltbike/razorpay-checkout-js)
+![Tests](https://github.com/tiltbike/razorpay-checkout-js/workflows/Tests/badge.svg?branch=master) [![npm version](https://img.shields.io/npm/v/@tiltbike/razorpay-checkout-js.svg?style=flat-square)](https://www.npmjs.com/package/@tiltbike/razorpay-checkout-js)
 
 ## Installation
 

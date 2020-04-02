@@ -21,6 +21,9 @@
     "type": "git",
     "url": "https://github.com/tiltbike/razorpay-checkout-js.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
